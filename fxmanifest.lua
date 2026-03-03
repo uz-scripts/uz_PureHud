@@ -1,3 +1,4 @@
+-- Official Download: https://uz-scripts.com
 fx_version "cerulean"
 
 description "UZStore"
